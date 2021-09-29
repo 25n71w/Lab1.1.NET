@@ -1,0 +1,7 @@
+C:\Users\hamza\source\repos\Lab1CH\bin\Debug\Lab1CH.exe.config
+C:\Users\hamza\source\repos\Lab1CH\bin\Debug\Lab1CH.exe
+C:\Users\hamza\source\repos\Lab1CH\bin\Debug\Lab1CH.pdb
+C:\Users\hamza\source\repos\Lab1CH\obj\Debug\Lab1CH.csproj.AssemblyReference.cache
+C:\Users\hamza\source\repos\Lab1CH\obj\Debug\Lab1CH.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\Lab1CH\obj\Debug\Lab1CH.exe
+C:\Users\hamza\source\repos\Lab1CH\obj\Debug\Lab1CH.pdb
